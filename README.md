@@ -1,4 +1,5 @@
 # firstrepo
 This is my first git repository
 <br>
-Author - Himanshu Bharti
+Author - Himanshu (first repo)
+
